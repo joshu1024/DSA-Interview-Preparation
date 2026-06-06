@@ -4,7 +4,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 
 ## Problems
 
-* [ ] Two Sum
+* [ ✓] Two Sum
 * [ ] Best Time to Buy & Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
