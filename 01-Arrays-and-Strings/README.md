@@ -5,7 +5,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 ## Problems
 
 * [ ✓] Two Sum
-* [ ] Best Time to Buy & Sell Stock
+* [ ✓] Best Time to Buy & Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray (Kadane's Algorithm)
