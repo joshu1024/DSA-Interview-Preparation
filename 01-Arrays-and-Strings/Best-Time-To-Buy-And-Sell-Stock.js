@@ -1,6 +1,6 @@
 /*
 Problem: Best Time to Buy and Sell Stock
-Pattern: Greedy / Running Minimum (Prefix Minimum)
+Pattern: Greedy
 Difficulty: Easy
 
 Brute Force:
