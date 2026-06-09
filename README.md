@@ -24,8 +24,8 @@ DSA-Interview-Preparation
 ### 01. Arrays & Strings
 
 * [x] Two Sum
-* [ ] Best Time to Buy & Sell Stock
-* [ ] Contains Duplicate
+* [x] Best Time to Buy & Sell Stock
+* [x] Contains Duplicate
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray (Kadane's)
 * [ ] Rotate Array
