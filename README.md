@@ -27,7 +27,7 @@ DSA-Interview-Preparation
 * [x] Best Time to Buy & Sell Stock
 * [x] Contains Duplicate
 * [x] Product of Array Except Self
-* [ ] Maximum Subarray (Kadane's)
+* [x] Maximum Subarray (Kadane's)
 * [ ] Rotate Array
 * [ ] Find Pivot Index
 * [ ] Merge Intervals
