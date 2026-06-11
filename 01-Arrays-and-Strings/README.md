@@ -9,7 +9,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 * [x] Contains Duplicate
 * [x] Product of Array Except Self
 * [x] Maximum Subarray (Kadane's Algorithm)
-* [ ] Rotate Array
+* [x] Rotate Array
 * [ ] Find Pivot Index
 * [ ] Merge Intervals
 * [ ] Longest Common Prefix
