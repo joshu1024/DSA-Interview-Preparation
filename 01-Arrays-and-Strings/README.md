@@ -26,4 +26,4 @@ Arrays and Strings form the foundation of many coding interview questions. These
 
 ## Progress
 
-Solved: 5 / 10
+Solved: 6 / 10
