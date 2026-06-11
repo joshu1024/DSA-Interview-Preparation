@@ -8,7 +8,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 * [x] Best Time to Buy & Sell Stock
 * [x] Contains Duplicate
 * [x] Product of Array Except Self
-* [ ] Maximum Subarray (Kadane's Algorithm)
+* [x] Maximum Subarray (Kadane's Algorithm)
 * [ ] Rotate Array
 * [ ] Find Pivot Index
 * [ ] Merge Intervals
@@ -26,4 +26,4 @@ Arrays and Strings form the foundation of many coding interview questions. These
 
 ## Progress
 
-Solved: 4 / 10
+Solved: 5 / 10
