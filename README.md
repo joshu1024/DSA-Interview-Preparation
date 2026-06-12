@@ -29,7 +29,7 @@ DSA-Interview-Preparation
 * [x] Product of Array Except Self
 * [x] Maximum Subarray (Kadane's)
 * [x] Rotate Array
-* [ ] Find Pivot Index
+* [x] Find Pivot Index
 * [ ] Merge Intervals
 * [ ] Longest Common Prefix
 * [ ] Valid Anagram
