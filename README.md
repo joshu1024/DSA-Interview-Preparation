@@ -28,7 +28,7 @@ DSA-Interview-Preparation
 * [x] Contains Duplicate
 * [x] Product of Array Except Self
 * [x] Maximum Subarray (Kadane's)
-* [ ] Rotate Array
+* [x] Rotate Array
 * [ ] Find Pivot Index
 * [ ] Merge Intervals
 * [ ] Longest Common Prefix
