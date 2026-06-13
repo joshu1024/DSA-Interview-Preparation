@@ -10,7 +10,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 * [x] Product of Array Except Self
 * [x] Maximum Subarray (Kadane's Algorithm)
 * [x] Rotate Array
-* [ ] Find Pivot Index
+* [x] Find Pivot Index
 * [ ] Merge Intervals
 * [ ] Longest Common Prefix
 * [ ] Valid Anagram
@@ -26,4 +26,4 @@ Arrays and Strings form the foundation of many coding interview questions. These
 
 ## Progress
 
-Solved: 6 / 10
+Solved: 7 / 10
