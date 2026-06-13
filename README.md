@@ -30,7 +30,7 @@ DSA-Interview-Preparation
 * [x] Maximum Subarray (Kadane's)
 * [x] Rotate Array
 * [x] Find Pivot Index
-* [ ] Merge Intervals
+* [x] Merge Intervals
 * [ ] Longest Common Prefix
 * [ ] Valid Anagram
 
