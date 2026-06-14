@@ -31,7 +31,7 @@ DSA-Interview-Preparation
 * [x] Rotate Array
 * [x] Find Pivot Index
 * [x] Merge Intervals
-* [ ] Longest Common Prefix
+* [x] Longest Common Prefix
 * [ ] Valid Anagram
 
 ### 02. Hash Maps
