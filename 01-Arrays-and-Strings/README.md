@@ -11,7 +11,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 * [x] Maximum Subarray (Kadane's Algorithm)
 * [x] Rotate Array
 * [x] Find Pivot Index
-* [ ] Merge Intervals
+* [x] Merge Intervals
 * [ ] Longest Common Prefix
 * [ ] Valid Anagram
 
