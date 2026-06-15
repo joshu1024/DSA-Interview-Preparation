@@ -13,7 +13,7 @@ Arrays and Strings form the foundation of many coding interview questions. These
 * [x] Find Pivot Index
 * [x] Merge Intervals
 * [x] Longest Common Prefix
-* [ ] Valid Anagram
+* [x] Valid Anagram
 
 ## Key Concepts
 
@@ -26,4 +26,4 @@ Arrays and Strings form the foundation of many coding interview questions. These
 
 ## Progress
 
-Solved: 9 / 10
+Solved: 10 / 10
