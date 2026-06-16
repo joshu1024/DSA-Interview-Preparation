@@ -36,7 +36,7 @@ DSA-Interview-Preparation
 
 ### 02. Hash Maps
 
-* [ ] Two Sum
+* [x] Two Sum
 * [ ] Group Anagrams
 * [ ] Top K Frequent Elements
 * [ ] Word Pattern
