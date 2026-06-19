@@ -38,7 +38,7 @@ DSA-Interview-Preparation
 
 * [x] Two Sum
 * [x] Group Anagrams
-* [ ] Top K Frequent Elements
+* [x] Top K Frequent Elements
 * [ ] Word Pattern
 * [ ] Isomorphic Strings
 * [ ] Subarray Sum Equals K
