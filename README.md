@@ -39,7 +39,7 @@ DSA-Interview-Preparation
 * [x] Two Sum
 * [x] Group Anagrams
 * [x] Top K Frequent Elements
-* [ ] Word Pattern
+* [x] Word Pattern
 * [ ] Isomorphic Strings
 * [ ] Subarray Sum Equals K
 * [ ] Longest Consecutive Sequence
