@@ -40,7 +40,7 @@ DSA-Interview-Preparation
 * [x] Group Anagrams
 * [x] Top K Frequent Elements
 * [x] Word Pattern
-* [ ] Isomorphic Strings
+* [x] Isomorphic Strings
 * [ ] Subarray Sum Equals K
 * [ ] Longest Consecutive Sequence
 * [ ] First Missing Positive

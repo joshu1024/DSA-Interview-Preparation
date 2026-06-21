@@ -8,7 +8,7 @@ Hash Maps are one of the most important data structures in coding interviews. Th
 * [x] Group Anagrams
 * [x] Top K Frequent Elements
 * [x] Word Pattern
-* [ ] Isomorphic Strings
+* [x] Isomorphic Strings
 * [ ] Subarray Sum Equals K
 * [ ] Longest Consecutive Sequence
 * [ ] First Missing Positive
@@ -25,4 +25,4 @@ Hash Maps are one of the most important data structures in coding interviews. Th
 
 ## Progress
 
-Solved: 4 / 8
+Solved: 5 / 8
