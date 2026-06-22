@@ -41,7 +41,7 @@ DSA-Interview-Preparation
 * [x] Top K Frequent Elements
 * [x] Word Pattern
 * [x] Isomorphic Strings
-* [ ] Subarray Sum Equals K
+* [x] Subarray Sum Equals K
 * [ ] Longest Consecutive Sequence
 * [ ] First Missing Positive
 
