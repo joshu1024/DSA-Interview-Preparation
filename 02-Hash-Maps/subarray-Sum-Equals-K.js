@@ -46,6 +46,7 @@ function subarraySum(nums, k) {
 
   return count;
 }
+
 const nums = [1, 1, 1];
 const k = 2;
 subarraySum(nums, k);
