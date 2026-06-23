@@ -42,7 +42,7 @@ DSA-Interview-Preparation
 * [x] Word Pattern
 * [x] Isomorphic Strings
 * [x] Subarray Sum Equals K
-* [ ] Longest Consecutive Sequence
+* [x] Longest Consecutive Sequence
 * [ ] First Missing Positive
 
 ### 03. Two Pointers
