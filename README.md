@@ -43,7 +43,7 @@ DSA-Interview-Preparation
 * [x] Isomorphic Strings
 * [x] Subarray Sum Equals K
 * [x] Longest Consecutive Sequence
-* [ ] First Missing Positive
+* [x] First Missing Positive
 
 ### 03. Two Pointers
 
