@@ -48,7 +48,7 @@ DSA-Interview-Preparation
 ### 03. Two Pointers
 
 * [x] Valid Palindrome
-* [ ] Two Sum II (Sorted Array)
+* [x] Two Sum II (Sorted Array)
 * [ ] 3Sum
 * [ ] Container With Most Water
 * [ ] Trapping Rain Water
