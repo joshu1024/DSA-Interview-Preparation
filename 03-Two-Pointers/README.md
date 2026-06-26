@@ -6,7 +6,7 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 
 * [x] Valid Palindrome
 * [x] Two Sum II (Sorted Array)
-* [ ] 3Sum
+* [x] 3Sum
 * [ ] Container With Most Water
 * [ ] Trapping Rain Water
 * [ ] Remove Duplicates from Sorted Array
@@ -25,4 +25,4 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 
 ## Progress
 
-Solved: 2 / 8
+Solved: 3 / 8
