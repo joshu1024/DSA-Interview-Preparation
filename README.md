@@ -51,7 +51,7 @@ DSA-Interview-Preparation
 * [x] Two Sum II (Sorted Array)
 * [x] 3Sum
 * [x] Container With Most Water
-* [ ] Trapping Rain Water
+* [x] Trapping Rain Water
 * [ ] Remove Duplicates from Sorted Array
 * [ ] Sort Colors
 * [ ] Squares of a Sorted Array
