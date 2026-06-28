@@ -52,7 +52,7 @@ DSA-Interview-Preparation
 * [x] 3Sum
 * [x] Container With Most Water
 * [x] Trapping Rain Water
-* [ ] Remove Duplicates from Sorted Array
+* [x] Remove Duplicates from Sorted Array
 * [ ] Sort Colors
 * [ ] Squares of a Sorted Array
 
