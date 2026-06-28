@@ -50,8 +50,8 @@ DSA-Interview-Preparation
 * [x] Valid Palindrome
 * [x] Two Sum II (Sorted Array)
 * [x] 3Sum
-* [ ] Container With Most Water
-* [ ] Trapping Rain Water
+* [x] Container With Most Water
+* [x] Trapping Rain Water
 * [ ] Remove Duplicates from Sorted Array
 * [ ] Sort Colors
 * [ ] Squares of a Sorted Array
