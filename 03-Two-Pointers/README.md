@@ -8,7 +8,7 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 * [x] Two Sum II (Sorted Array)
 * [x] 3Sum
 * [x] Container With Most Water
-* [ ] Trapping Rain Water
+* [x] Trapping Rain Water
 * [ ] Remove Duplicates from Sorted Array
 * [ ] Sort Colors (Dutch National Flag)
 * [ ] Squares of a Sorted Array
@@ -25,4 +25,4 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 
 ## Progress
 
-Solved: 4 / 8
+Solved: 5 / 8
