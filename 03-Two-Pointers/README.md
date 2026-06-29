@@ -9,7 +9,7 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 * [x] 3Sum
 * [x] Container With Most Water
 * [x] Trapping Rain Water
-* [ ] Remove Duplicates from Sorted Array
+* [x] Remove Duplicates from Sorted Array
 * [ ] Sort Colors (Dutch National Flag)
 * [ ] Squares of a Sorted Array
 
