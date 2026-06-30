@@ -10,7 +10,7 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 * [x] Container With Most Water
 * [x] Trapping Rain Water
 * [x] Remove Duplicates from Sorted Array
-* [ ] Sort Colors (Dutch National Flag)
+* [x] Sort Colors (Dutch National Flag)
 * [ ] Squares of a Sorted Array
 
 ## Key Concepts
@@ -25,4 +25,4 @@ The Two Pointers technique uses two indices that move through a data structureâ€
 
 ## Progress
 
-Solved: 6 / 8
+Solved: 7 / 8
