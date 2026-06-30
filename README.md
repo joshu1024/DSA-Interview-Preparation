@@ -53,7 +53,7 @@ DSA-Interview-Preparation
 * [x] Container With Most Water
 * [x] Trapping Rain Water
 * [x] Remove Duplicates from Sorted Array
-* [ ] Sort Colors
+* [x] Sort Colors
 * [ ] Squares of a Sorted Array
 
 ### 04. Sliding Window
