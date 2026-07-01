@@ -54,7 +54,7 @@ DSA-Interview-Preparation
 * [x] Trapping Rain Water
 * [x] Remove Duplicates from Sorted Array
 * [x] Sort Colors
-* [ ] Squares of a Sorted Array
+* [] Squares of a Sorted Array
 
 ### 04. Sliding Window
 
