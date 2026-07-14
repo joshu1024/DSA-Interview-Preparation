@@ -58,7 +58,7 @@ DSA-Interview-Preparation
 
 ### 04. Sliding Window
 
-* [ ] Best Time to Buy & Sell Stock
+* [x] Best Time to Buy & Sell Stock
 * [ ] Longest Substring Without Repeating Characters
 * [ ] Minimum Window Substring
 * [ ] Permutation in String
