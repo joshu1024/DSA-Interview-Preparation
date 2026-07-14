@@ -25,4 +25,4 @@ The Sliding Window technique efficiently processes contiguous subarrays or subst
 
 ## Progress
 
-Solved: 1 / 8
+Solved: 2 / 8
