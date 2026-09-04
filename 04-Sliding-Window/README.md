@@ -7,7 +7,7 @@ The Sliding Window technique efficiently processes contiguous subarrays or subst
 * [x] Best Time to Buy & Sell Stock
 * [x] Longest Substring Without Repeating Characters
 * [x] Minimum Window Substring
-* [ ] Permutation in String
+* [x] Permutation in String
 * [ ] Fruit Into Baskets
 * [ ] Max Consecutive Ones III
 * [ ] Longest Repeating Character Replacement
@@ -25,4 +25,4 @@ The Sliding Window technique efficiently processes contiguous subarrays or subst
 
 ## Progress
 
-Solved: 3 / 8
+Solved: 4 / 8

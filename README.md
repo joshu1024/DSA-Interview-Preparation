@@ -61,7 +61,7 @@ DSA-Interview-Preparation
 * [x] Best Time to Buy & Sell Stock
 * [x] Longest Substring Without Repeating Characters
 * [x] Minimum Window Substring
-* [ ] Permutation in String
+* [x] Permutation in String
 * [ ] Fruit Into Baskets
 * [ ] Max Consecutive Ones III
 * [ ] Longest Repeating Character Replacement
