@@ -63,7 +63,7 @@ DSA-Interview-Preparation
 * [x] Minimum Window Substring
 * [x] Permutation in String
 * [x] Fruit Into Baskets
-* [ ] Max Consecutive Ones III
+* [x] Max Consecutive Ones III
 * [ ] Longest Repeating Character Replacement
 * [ ] Minimum Size Subarray Sum
 
