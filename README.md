@@ -65,7 +65,7 @@ DSA-Interview-Preparation
 * [x] Fruit Into Baskets
 * [x] Max Consecutive Ones III
 * [x] Longest Repeating Character Replacement
-* [ ] Minimum Size Subarray Sum
+* [x] Minimum Size Subarray Sum
 
 ### 05. Stack
 
