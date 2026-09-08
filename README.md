@@ -69,7 +69,7 @@ DSA-Interview-Preparation
 
 ### 05. Stack
 
-* [ ] Valid Parentheses
+* [x] Valid Parentheses
 * [ ] Daily Temperatures
 * [ ] Next Greater Element I
 * [ ] Min Stack
