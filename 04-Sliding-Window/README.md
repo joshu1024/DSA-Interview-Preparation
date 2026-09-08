@@ -11,7 +11,7 @@ The Sliding Window technique efficiently processes contiguous subarrays or subst
 * [x] Fruit Into Baskets
 * [x] Max Consecutive Ones III
 * [x] Longest Repeating Character Replacement
-* [ ] Minimum Size Subarray Sum
+* [x] Minimum Size Subarray Sum
 
 ## Key Concepts
 
@@ -25,4 +25,4 @@ The Sliding Window technique efficiently processes contiguous subarrays or subst
 
 ## Progress
 
-Solved: 7 / 8
+Solved: 8 / 8
