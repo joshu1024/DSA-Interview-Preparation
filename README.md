@@ -70,7 +70,7 @@ DSA-Interview-Preparation
 ### 05. Stack
 
 * [x] Valid Parentheses
-* [ ] Daily Temperatures
+* [x] Daily Temperatures
 * [ ] Next Greater Element I
 * [ ] Min Stack
 * [ ] Evaluate Reverse Polish Notation
