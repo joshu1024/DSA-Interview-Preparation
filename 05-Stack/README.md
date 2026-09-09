@@ -26,4 +26,4 @@ A Stack is a Last In, First Out (LIFO) data structure where the last element add
 
 ## Progress
 
-Solved: 1 / 8
+Solved: 2 / 8
