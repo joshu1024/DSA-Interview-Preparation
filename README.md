@@ -70,8 +70,8 @@ DSA-Interview-Preparation
 ### 05. Stack
 
 * [x] Valid Parentheses
-* [ ] Daily Temperatures
-* [ ] Next Greater Element I
+* [x] Daily Temperatures
+* [x] Next Greater Element I
 * [ ] Min Stack
 * [ ] Evaluate Reverse Polish Notation
 * [ ] Car Fleet
