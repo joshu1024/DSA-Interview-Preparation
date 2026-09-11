@@ -72,7 +72,7 @@ DSA-Interview-Preparation
 * [x] Valid Parentheses
 * [x] Daily Temperatures
 * [x] Next Greater Element I
-* [ ] Min Stack
+* [x] Min Stack
 * [ ] Evaluate Reverse Polish Notation
 * [ ] Car Fleet
 * [ ] Largest Rectangle in Histogram
