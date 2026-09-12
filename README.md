@@ -73,7 +73,7 @@ DSA-Interview-Preparation
 * [x] Daily Temperatures
 * [x] Next Greater Element I
 * [x] Min Stack
-* [ ] Evaluate Reverse Polish Notation
+* [x] Evaluate Reverse Polish Notation
 * [ ] Car Fleet
 * [ ] Largest Rectangle in Histogram
 * [ ] Decode String
