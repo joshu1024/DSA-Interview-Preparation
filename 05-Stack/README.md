@@ -8,7 +8,7 @@ A Stack is a Last In, First Out (LIFO) data structure where the last element add
 * [x] Daily Temperatures
 * [x] Next Greater Element I
 * [x] Min Stack
-* [ ] Evaluate Reverse Polish Notation
+* [x] Evaluate Reverse Polish Notation
 * [ ] Car Fleet
 * [ ] Largest Rectangle in Histogram
 * [ ] Decode String
@@ -26,4 +26,4 @@ A Stack is a Last In, First Out (LIFO) data structure where the last element add
 
 ## Progress
 
-Solved: 4 / 8
+Solved: 5 / 8
