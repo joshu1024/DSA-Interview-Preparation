@@ -74,11 +74,7 @@ DSA-Interview-Preparation
 * [x] Next Greater Element I
 * [x] Min Stack
 * [x] Evaluate Reverse Polish Notation
-<<<<<<< HEAD
 * [x] Car Fleet
-=======
-* [ ] Car Fleet
->>>>>>> 540199c166a6346f76b1197121f8b871be921f53
 * [ ] Largest Rectangle in Histogram
 * [ ] Decode String
 
