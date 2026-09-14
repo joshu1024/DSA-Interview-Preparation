@@ -75,7 +75,7 @@ DSA-Interview-Preparation
 * [x] Min Stack
 * [x] Evaluate Reverse Polish Notation
 * [x] Car Fleet
-* [ ] Largest Rectangle in Histogram
+* [x] Largest Rectangle in Histogram
 * [ ] Decode String
 
 ### 06. Binary Search
