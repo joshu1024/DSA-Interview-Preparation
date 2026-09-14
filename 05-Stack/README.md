@@ -9,8 +9,8 @@ A Stack is a Last In, First Out (LIFO) data structure where the last element add
 * [x] Next Greater Element I
 * [x] Min Stack
 * [x] Evaluate Reverse Polish Notation
-* [ ] Car Fleet
-* [ ] Largest Rectangle in Histogram
+* [x] Car Fleet
+* [x] Largest Rectangle in Histogram
 * [ ] Decode String
 
 ## Key Concepts
