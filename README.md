@@ -76,11 +76,11 @@ DSA-Interview-Preparation
 * [x] Evaluate Reverse Polish Notation
 * [x] Car Fleet
 * [x] Largest Rectangle in Histogram
-* [ ] Decode String
+* [x] Decode String
 
 ### 06. Binary Search
 
-* [ ] Binary Search
+* [x] Binary Search
 * [ ] Search in Rotated Sorted Array
 * [ ] Find Minimum in Rotated Array
 * [ ] Koko Eating Bananas
