@@ -28,4 +28,4 @@ Binary Search is an efficient searching algorithm that works on sorted data by r
 
 ## Progress
 
-Solved: 1 / 8
+Solved: 2 / 8
