@@ -82,7 +82,7 @@ DSA-Interview-Preparation
 
 * [x] Binary Search
 * [x] Search in Rotated Sorted Array
-* [ ] Find Minimum in Rotated Array
+* [x] Find Minimum in Rotated Array
 * [ ] Koko Eating Bananas
 * [ ] Find Peak Element
 * [ ] Search a 2D Matrix
