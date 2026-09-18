@@ -81,7 +81,7 @@ DSA-Interview-Preparation
 ### 06. Binary Search
 
 * [x] Binary Search
-* [ ] Search in Rotated Sorted Array
+* [x] Search in Rotated Sorted Array
 * [ ] Find Minimum in Rotated Array
 * [ ] Koko Eating Bananas
 * [ ] Find Peak Element
