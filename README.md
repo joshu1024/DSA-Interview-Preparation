@@ -84,7 +84,7 @@ DSA-Interview-Preparation
 * [x] Search in Rotated Sorted Array
 * [x] Find Minimum in Rotated Array
 * [x] Koko Eating Bananas
-* [ ] Find Peak Element
+* [x] Find Peak Element
 * [ ] Search a 2D Matrix
 * [ ] Median of Two Sorted Arrays
 * [ ] Time-Based Key-Value Store
