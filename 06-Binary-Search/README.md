@@ -8,8 +8,8 @@ Binary Search is an efficient searching algorithm that works on sorted data by r
 * [x] Search in Rotated Sorted Array
 * [x] Find Minimum in Rotated Sorted Array
 * [x] Koko Eating Bananas
-* [ ] Find Peak Element
-* [ ] Search a 2D Matrix
+* [x] Find Peak Element
+* [x] Search a 2D Matrix
 * [ ] Median of Two Sorted Arrays
 * [ ] Time-Based Key-Value Store
 
@@ -28,4 +28,4 @@ Binary Search is an efficient searching algorithm that works on sorted data by r
 
 ## Progress
 
-Solved: 4 / 8
+Solved: 6 / 8
