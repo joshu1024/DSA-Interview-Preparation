@@ -86,7 +86,7 @@ DSA-Interview-Preparation
 * [x] Koko Eating Bananas
 * [x] Find Peak Element
 * [x] Search a 2D Matrix
-* [ ] Median of Two Sorted Arrays
+* [x] Median of Two Sorted Arrays
 * [ ] Time-Based Key-Value Store
 
 ### 07. Linked Lists
